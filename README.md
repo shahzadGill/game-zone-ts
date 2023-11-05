@@ -38,3 +38,9 @@ npm install
 ```
 npm run dev
 ```
+
+- For this project, I am using "Chakra UI". For installing this UI, check the following article on Chakra Website.
+
+```
+https://chakra-ui.com/getting-started/vite-guide
+```
