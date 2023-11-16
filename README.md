@@ -44,3 +44,11 @@ npm run dev
 ```
 https://chakra-ui.com/getting-started/vite-guide
 ```
+
+For installing "axios", we will use the following command.
+
+```
+npm i axios@1.3.4
+```
+
+For this project, I am using "rawg.io" API key for fetching games.
